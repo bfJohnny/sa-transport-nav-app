@@ -1,0 +1,12 @@
+name: sa_transport_nav_app
+
+dependencies:
+  flutter:
+    sdk: flutter
+  open_street_map: ^0.10.3
+  geolocator: ^7.7.0
+  http: ^0.13.3
+  provider: ^5.0.0
+
+flutter:
+  uses-material-design: true
